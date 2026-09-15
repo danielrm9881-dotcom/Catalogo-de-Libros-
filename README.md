@@ -533,9 +533,9 @@ Antes de entregar el proyecto, comprueben que:
 
 # Integrantes del equipo
 
-| Nombre       |
-| Angelica Amellali Mercado Aguilar |
-| Daniel Rosas Monroy|
+
+Angelica Amellali Mercado Aguilar<br>
+Daniel Rosas Monroy
 
 ---
 
